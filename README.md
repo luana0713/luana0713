@@ -28,6 +28,7 @@
 ---
 
 ### 🌱 Projects I'm Working On
-- 🧠 **Click Sala** – a classroom management system  
+- 🧠 Click Sala – A classroom management system built as part of a university course. Focused on user-friendly room reservations and admin tools.
 - 🎨 **BTS Landing Page** – a creative page built with HTML/CSS/JS  
-- 🎨 **Personal Portifolio** - a creative portifolio with HTML/CSS/JS  
+- 🎨 **Personal Portifolio** - a creative portifolio with HTML/CSS/JS
+- 🎸 Arctic Monkeys Page – A fan-made web page dedicated to Arctic Monkeys, combining visuals, music inspiration, and interactive design.
