@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hey 👋 I'm Luana!</h1>
-[my instagram](@lkive_007)
+
 
 
 <p align="center">
