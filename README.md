@@ -28,8 +28,6 @@
 - 🌐 Cisco Packet Tracer (network simulations)
 
 ---
-### ❤️ soft squils
-
 
 ### 🌱 Projects I'm Working On
 - 🧠 Click Sala – A classroom management system built as part of a university course. Focused on user-friendly room reservations and admin tools.
