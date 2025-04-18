@@ -1,6 +1,8 @@
 
 
 <h1 align="center">Hey 👋 I'm Luana!</h1>
+[my instagram](@lkive_007)
+
 
 <p align="center">
   <a href="https://github.com/luana0713"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
