@@ -13,7 +13,7 @@
 
 🎓 About Me
 - 💻 Computer Science student  
-- 💡 Passionate about tech, creativity, and front-end development [digital](www.linkedin.com/in/luana-silva-54868a2b4/)
+- 💡 Passionate about tech, creativity, and front-end development 
 - 🎨 Interested in interface design and how users interact with it  
 - 📚 Currently learning: JavaScript, React Native, Git, and UI/UX basics  
 - 💜  Music keeps me coding  
