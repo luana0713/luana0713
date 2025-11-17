@@ -15,7 +15,7 @@
 - 💻 Computer Science student  
 - 💡 Passionate about tech, creativity, and front-end development 
 - 🎨 Interested in interface design and how users interact with it  
-- 📚 Currently learning: JavaScript, React Native, Git, and UI/UX basics  
+- 📚 Currently learning: JavaScript, Python, Git, Github and UI/UX basics  
 - 💜  Music keeps me coding  
 
 ---
@@ -29,8 +29,3 @@
 
 ---
 
-### 🌱 Projects I'm Working On
-- 🧠 Click Sala – A classroom management system built as part of a university course. Focused on user-friendly room reservations and admin tools.
-- 🎨 **BTS Landing Page** – a creative page built with HTML/CSS/JS  
-- 🎨 **Personal Portifolio** - a creative portifolio with HTML/CSS/JS
-- 🎸 Arctic Monkeys Page – A fan-made web page dedicated to Arctic Monkeys, combining visuals, music inspiration, and interactive design.
