@@ -16,7 +16,7 @@
 - 💡 Passionate about tech, creativity, and front-end development 
 - 🎨 Interested in interface design and how users interact with it  
 - 📚 Currently learning: JavaScript, Python, Git, Github and UI/UX basics  
-- 💜  Music keeps me coding  
+- 💜  Music an Anime keeps me coding  
 
 ---
 
