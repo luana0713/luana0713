@@ -17,7 +17,7 @@
 - 🎨 Interested in interface design and how users interact with it  
 - 📚 Currently learning: JavaScript, Python, Git, Github and UI/UX basics  
 - 💜  Music and Anime keeps me coding
-- 🌐  <a href="(https://luana0713.github.io/Portifolio-basico/)">My portifolio link </a>
+- 🌐  <a href="https://luana0713.github.io/Portifolio-basico/">My portifolio link </a>
 
 ---
 
