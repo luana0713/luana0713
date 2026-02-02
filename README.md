@@ -16,7 +16,8 @@
 - 💡 Passionate about tech, creativity, and front-end development 
 - 🎨 Interested in interface design and how users interact with it  
 - 📚 Currently learning: JavaScript, Python, Git, Github and UI/UX basics  
-- 💜  Music and Anime keeps me coding  
+- 💜  Music and Anime keeps me coding
+- - 🌐  <a href="luana0713.github.io/Portifolio-basico/">My portifolio link </a>
 
 ---
 
@@ -26,6 +27,6 @@
 - 🧠 Visual Studio Code  
 - 🎨 Figma (UI/UX basics)  
 - 🌐 Cisco Packet Tracer (network simulations)
-- 🌐  <a href="luana0713.github.io/Portifolio-basico/">My portifolio link </a>
+
 ---
 
