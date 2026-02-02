@@ -26,6 +26,6 @@
 - 🧠 Visual Studio Code  
 - 🎨 Figma (UI/UX basics)  
 - 🌐 Cisco Packet Tracer (network simulations)
-
+- 🌐 My portifolio link <a href="luana0713.github.io/Portifolio-basico/">
 ---
 
